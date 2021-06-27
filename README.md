@@ -25,6 +25,8 @@
   
 
 ### Challenges and Difficulties Encountered
+  When conducting the analysis a challenge I encountered was properly using the countifs function. After some trial and error along with helpful videos I was able
+  to find the correct function. 
 
 ## Results
 
